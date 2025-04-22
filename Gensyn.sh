@@ -6,9 +6,9 @@ clear
 while true; do
     echo ""
     echo "============== GenSyn一键安装部署 =============="
-    echo "                   ⌞👤 修改:X:@caitoudu⌝---crypto苦行僧"
-    echo "                       推特地址：https://x.com/caitoudu"
-    echo "             那些「看似无用的努力」,终将在某条分叉链绽放"
+    echo "        ⌞👤 修改:X:@caitoudu⌝---crypto苦行僧"
+    echo "         推特地址：https://x.com/caitoudu"
+    echo "         那些「看似无用的努力」,终将在某条分叉链绽放"
     echo "==========================================="
     echo "1. 安装基础环境并启动项目"
     echo "2. 查看 gensyn 会话"
